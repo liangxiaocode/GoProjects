@@ -1,4 +1,4 @@
-module WordStyleChange
+module PassageOne
 
 go 1.17
 

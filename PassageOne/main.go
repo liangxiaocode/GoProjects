@@ -1,7 +1,7 @@
 package main
 
 import (
-	"WordStyleChange/cmd"
+	"PassageOne/cmd"
 	"log"
 )
 

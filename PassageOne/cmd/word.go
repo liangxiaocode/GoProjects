@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"WordStyleChange/internal/word"
+	"PassageOne/internal/word"
 	"log"
 	"strings"
 

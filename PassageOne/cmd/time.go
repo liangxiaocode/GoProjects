@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"WordStyleChange/internal/timer"
+	"PassageOne/internal/timer"
 	"log"
 	"strconv"
 	"strings"
